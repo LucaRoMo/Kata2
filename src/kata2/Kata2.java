@@ -1,5 +1,5 @@
 package kata2;
-//Personal Access Key : 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
+//Personal Access Key : 
 import java.util.HashMap;
 import java.util.Map;
 
